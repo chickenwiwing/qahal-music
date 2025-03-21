@@ -1,20 +1,25 @@
 {
-    "songs": [
-      {
-        "id": 1,
-        "title": "Amazing Grace",
-        "author": "John Newton",
-        "category": "Hymne",
-        "lyrics": "Amazing grace, how sweet the sound\nThat saved a wretch like me\nI once was lost, but now am found\nWas blind, but now I see\n\n'Twas grace that taught my heart to fear\nAnd grace my fears relieved\nHow precious did that grace appear\nThe hour I first believed",
-        "year": 1779
-      },
-      {
-        "id": 2,
-        "title": "Aleph Tav",
-        "author": "Shekanya & Nia",
-        "category": "Pujian",
-        "lyrics": "verse:\nYehovah roi lo ecsar, actovah chesed yirdefuni kolyemei hayay\nYehovah roi lo ecsar, veshafti befeit Yehovah yirdefuni le orech yamim\n\nchorus:\nYehovah ori ve yishi mimi ira\nYehovah maoz chayay mimi efchad\natah aleph ve'atah tav\natzat Yehovah hitakum\n\nbridge:\nodcha al ki nora'ot nifleiti nifla'im\nma'asheicha, venafshi yoda'at me'ot\n\n\nmeaning:\nverse:\nYehovah adalah gembalaku aku tidak kekurangan apapun, kebajikan dan kemurahan-Mu selalu mengikutiku\nYehovah adalah gembalaku aku tidak kekurangan apapun, senantiasa aku akan tinggal di bait Yehovah\n\nchorus\nYehovah adalah terangku dan keselamatanku, kepada siapa aku harus takut\nYehovah benteng hidupku, kepada siapa aku harus gentar\nEngkau adalah awal dan akhir\nBiar kehendak Yehovah yang terjadi\n",
-        "year": 2024
-      }
-    ]
-  }
+  "songs": [
+    {
+      "id": 1,
+      "title": "Amazing Grace",
+      "lyrics": "Amazing grace, how sweet the sound\nThat saved a wretch like me\nI once was lost, but now am found\nWas blind, but now I see\n\n'Twas grace that taught my heart to fear\nAnd grace my fears relieved\nHow precious did that grace appear\nThe hour I first believed",
+      "year": 1779,
+      "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": 2,
+      "title": "Aleph Tav",
+      "lyrics": "Verse:\nYehovah roi lo ecsar, actovah chesed yirdefuni kolyemei hayay\n(Yehovah adalah gembalaku aku tidak kekurangan apapun, kebajikan dan kemurahan-Mu selalu mengikutiku)\n\nYehovah roi lo ecsar, veshafti befeit Yehovah yirdefuni le orech yamim\n(Yehovah adalah gembalaku aku tidak kekurangan apapun, senantiasa aku akan tinggal di bait Yehovah)\n\n\nChorus:\nYehovah ori ve yishi mimi ira\n(Yehovah adalah terangku dan keselamatanku, kepada siapa aku harus takut)\n\nYehovah maoz chayay mimi efchad\n(Yehovah benteng hidupku, kepada siapa aku harus gentar)\n\nAtah aleph ve'atah tav\n(Engkau adalah awal dan akhir)\n\nAtzat Yehovah hitakum\n(Biar kehendak Yehovah yang terjadi)\n\n\nBridge:\nOdcha al ki nora'ot nifleiti nifla'im\n(Aku bersyukur kepada-Mu , karena kejadianku dahsyat & ajaib)\n\nMa'asheicha, venafshi yoda'at me'ot\n(Ajaib apa yang Kau buat & jiwaku benar benar menyadarinya)\n",
+      "year": 2024,
+      "youtube": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 3,
+      "title": "Janji Kami",
+      "lyrics": "Verse:\nYeshua kami datang bersama keluarga kami (qahal)\n\nMembawa hati dan hidup kami sebagai korban kepadamu\n\nEngkaulah yang tlah memilih kami dari sgala suku dan bangsa\n\nKini kami berdiri dihadapanmu\n\nMenyatakan janji kami\n\n\nChorus:\nKami tak akan pernah berhenti\n\nKami berjanji akan terus melangkah\n\nBerjalan tiada lelah berlari tiada lesu\n\nKarena engkau yeshua dalam kami\n\nSampai genap semua destiny\n\nYang kau taruh dalam hidup kami\n\nBiar kristus di dalam kami semakin bersinar\n\nIni doa kami\n\nYeshua pakai kami\n",
+      "year": 2024,
+      "youtube":""
+    }
+  ]
+}
